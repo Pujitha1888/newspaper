@@ -1,0 +1,33 @@
+*{
+    background-size: 100% 100%;
+}
+.puji{
+    text-align: center;
+    color: red;
+}
+.puji1{
+    text-align: center;
+}
+.puji2{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    margin-left: 450px;
+    }
+.puji4{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    margin-left: 450px ;
+}
+.puji6{
+     text-align: center;
+     background-color: white;
+     width: 30%;
+     margin-left: 450px;
+}
+.pujitha{
+    height: 100%;
+    width: 100%;
+    border: 2px solid red;
+}
